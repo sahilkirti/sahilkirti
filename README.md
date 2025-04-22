@@ -44,7 +44,7 @@ AI-powered human action detection from videos using:
 
 ---
 
-### 💳 [Paytm Clone](https://github.com/sahilkirti/Paytm)
+### 💳 [Paytm](https://github.com/sahilkirti/Paytm)
 A secure and scalable wallet & payment platform built with:
 - Microservices using Next.js, Express, PostgreSQL, Prisma
 - Monorepo structure, JWT auth, Docker, GitHub Actions, CI/CD on AWS
