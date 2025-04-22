@@ -19,7 +19,7 @@
 **Databases:**  
 `MySQL` `MongoDB` `PostgreSQL`
 
-**DevOps & Tools:**  
+**Tools & Technologies:**  
 `Node.js` `Docker` `Git` `GitHub` `AWS EC2` `CI/CD` `Monorepo` `Prisma Accelerate` `Figma`
 
 ---
