@@ -14,7 +14,7 @@
 `C` `C++` `Java` `Python` `JavaScript` `TypeScript` `Dart` `HTML` `CSS`
 
 **Frameworks & Libraries:**  
-`React` `Next.js` `Express` `Flutter` `Hono` `Turborepo` `Zod` `Tailwind CSS` `Axios` `Prisma`
+`React` `Next.js` `Express` `Flutter` `Hono` `Turborepo` `Zod` `Tailwind CSS` `Axios` `Prisma` `Django` `Django REST Framework`
 
 **Databases:**  
 `MySQL` `MongoDB` `PostgreSQL`
