@@ -31,7 +31,7 @@ A full-stack blogging platform with real-time updates, JWT auth, and modern tech
 - Built with React, Hono, Prisma, Cloudflare Workers, and Tailwind CSS
 - Dynamic routing, secure blog interactions, clean UI
 
-🔗 [Preview]([https://drive.google.com/drive/folders/1zNLL8ULoHSCqc34ZqIViqiPRKv4EFkX1?usp=drive_link](https://blogify-orcin-chi.vercel.app/))
+🔗 [Preview]([https://blogify-orcin-chi.vercel.app/](https://blogify-orcin-chi.vercel.app/))
 
 ---
 
