@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Kirti</h1>
 
 <p align="center">
-  🎓 Graduated with a B.Tech in CSE from <strong>Indian Institute of Information Technology (IIIT), Dharwad</strong> <br>
+  🎓 B.Tech CSE Graduate from <strong>Indian Institute of Information Technology (IIIT), Dharwad</strong> <br>
   💻 Full Stack Developer skilled in building scalable, real-world applications <br>
   🚀 Passionate about clean code, modern tech, and impactful digital products
 </p>
